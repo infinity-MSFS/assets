@@ -13,7 +13,7 @@ except ImportError:
     from PIL import Image
 
 repo_owner = "infinity-MSFS"
-repo_name = "groups"
+repo_name = "assets"
 branch = "main"
 
 links = {}
