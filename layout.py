@@ -14,7 +14,7 @@ except ImportError:
 
 repo_owner = "infinity-MSFS"
 repo_name = "assets"
-branch = "main"
+branch = "master"
 
 links = {}
 

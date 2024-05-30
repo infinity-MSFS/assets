@@ -1,12 +1,12 @@
 {
-    "delta/background.webp": "https://cdn.jsdelivr.net/gh/infinity-MSFS/assets@main/delta/background.webp",
-    "delta/h60_background.webp": "https://cdn.jsdelivr.net/gh/infinity-MSFS/assets@main/delta/h60_background.webp",
-    "delta/logo.webp": "https://cdn.jsdelivr.net/gh/infinity-MSFS/assets@main/delta/logo.webp",
-    "lunar/767_civ_bg.webp": "https://cdn.jsdelivr.net/gh/infinity-MSFS/assets@main/lunar/767_civ_bg.webp",
-    "lunar/767_mil_bg.webp": "https://cdn.jsdelivr.net/gh/infinity-MSFS/assets@main/lunar/767_mil_bg.webp",
-    "lunar/beta.webp": "https://cdn.jsdelivr.net/gh/infinity-MSFS/assets@main/lunar/beta.webp",
-    "lunar/group_bg.webp": "https://cdn.jsdelivr.net/gh/infinity-MSFS/assets@main/lunar/group_bg.webp",
-    "lunar/logo.webp": "https://cdn.jsdelivr.net/gh/infinity-MSFS/assets@main/lunar/logo.webp",
-    "ouroboros/beta.webp": "https://cdn.jsdelivr.net/gh/infinity-MSFS/assets@main/ouroboros/beta.webp",
-    "ouroboros/logo.webp": "https://cdn.jsdelivr.net/gh/infinity-MSFS/assets@main/ouroboros/logo.webp"
+    "delta/background.webp": "https://cdn.jsdelivr.net/gh/infinity-MSFS/assets@master/delta/background.webp",
+    "delta/h60_background.webp": "https://cdn.jsdelivr.net/gh/infinity-MSFS/assets@master/delta/h60_background.webp",
+    "delta/logo.webp": "https://cdn.jsdelivr.net/gh/infinity-MSFS/assets@master/delta/logo.webp",
+    "lunar/767_civ_bg.webp": "https://cdn.jsdelivr.net/gh/infinity-MSFS/assets@master/lunar/767_civ_bg.webp",
+    "lunar/767_mil_bg.webp": "https://cdn.jsdelivr.net/gh/infinity-MSFS/assets@master/lunar/767_mil_bg.webp",
+    "lunar/beta.webp": "https://cdn.jsdelivr.net/gh/infinity-MSFS/assets@master/lunar/beta.webp",
+    "lunar/group_bg.webp": "https://cdn.jsdelivr.net/gh/infinity-MSFS/assets@master/lunar/group_bg.webp",
+    "lunar/logo.webp": "https://cdn.jsdelivr.net/gh/infinity-MSFS/assets@master/lunar/logo.webp",
+    "ouroboros/beta.webp": "https://cdn.jsdelivr.net/gh/infinity-MSFS/assets@master/ouroboros/beta.webp",
+    "ouroboros/logo.webp": "https://cdn.jsdelivr.net/gh/infinity-MSFS/assets@master/ouroboros/logo.webp"
 }
