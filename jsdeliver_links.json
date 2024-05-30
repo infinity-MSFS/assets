@@ -1,8 +1,12 @@
 {
-  "delta/background.png": "https://cdn.jsdelivr.net/gh/infinity-MSFS/groups@main/delta/background.png",
-  "delta/logo.png": "https://cdn.jsdelivr.net/gh/infinity-MSFS/groups@main/delta/logo.png",
-  "lunar/beta.png": "https://cdn.jsdelivr.net/gh/infinity-MSFS/groups@main/lunar/beta.png",
-  "lunar/logo.png": "https://cdn.jsdelivr.net/gh/infinity-MSFS/groups@main/lunar/logo.png",
-  "ouroboros/beta.png": "https://cdn.jsdelivr.net/gh/infinity-MSFS/groups@main/ouroboros/beta.png",
-  "ouroboros/logo.png": "https://cdn.jsdelivr.net/gh/infinity-MSFS/groups@main/ouroboros/logo.png"
+    "delta/background.png": "https://cdn.jsdelivr.net/gh/infinity-MSFS/groups@main/delta/background.png",
+    "delta/h60_background.png": "https://cdn.jsdelivr.net/gh/infinity-MSFS/groups@main/delta/h60_background.png",
+    "delta/logo.png": "https://cdn.jsdelivr.net/gh/infinity-MSFS/groups@main/delta/logo.png",
+    "lunar/767_civ_bg.png": "https://cdn.jsdelivr.net/gh/infinity-MSFS/groups@main/lunar/767_civ_bg.png",
+    "lunar/767_mil_bg.png": "https://cdn.jsdelivr.net/gh/infinity-MSFS/groups@main/lunar/767_mil_bg.png",
+    "lunar/beta.png": "https://cdn.jsdelivr.net/gh/infinity-MSFS/groups@main/lunar/beta.png",
+    "lunar/group_bg.png": "https://cdn.jsdelivr.net/gh/infinity-MSFS/groups@main/lunar/group_bg.png",
+    "lunar/logo.png": "https://cdn.jsdelivr.net/gh/infinity-MSFS/groups@main/lunar/logo.png",
+    "ouroboros/beta.png": "https://cdn.jsdelivr.net/gh/infinity-MSFS/groups@main/ouroboros/beta.png",
+    "ouroboros/logo.png": "https://cdn.jsdelivr.net/gh/infinity-MSFS/groups@main/ouroboros/logo.png"
 }
