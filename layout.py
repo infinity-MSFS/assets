@@ -2,7 +2,7 @@ import os
 import json
 
 repo_owner = "infinity-MSFS"
-repo_name = "groups"
+repo_name = "assets"
 branch = "main"
 
 
