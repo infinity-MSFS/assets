@@ -21,6 +21,10 @@ links = {}
 def generate_jsdelivr_url(file_path):
     return f"https://cdn.jsdelivr.net/gh/{repo_owner}/{repo_name}@{branch}/{file_path}"
 
+output_file = "jsdeliver_links.json"
+if os.path.exists(output_file):
+    os.remove(output_file)
+
 for root, dirs, files in os.walk("."):
     for file in files:
         if file.endswith(".png"):
@@ -40,7 +44,6 @@ for root, dirs, files in os.walk("."):
             url = generate_jsdelivr_url(relative_webp_path)
             links[relative_webp_path] = url
 
-output_file = "jsdeliver_links.json"
 with open(output_file, "w") as f:
     json.dump(links, f, indent=4)
 
